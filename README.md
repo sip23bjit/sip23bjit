@@ -46,6 +46,7 @@ I've very active, writing content regularly to at least one of these.
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/sip23bjit)
 
+## 📊 Stats
 
-
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sip23bjit&show_icons=true&theme=gruvbox)
 
