@@ -50,3 +50,7 @@ I've very active, writing content regularly to at least one of these.
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sip23bjit&show_icons=true&theme=gruvbox)
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sip23bjit&&style=flat-square" align="center" />
+</div> 
+
