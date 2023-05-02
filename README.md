@@ -25,13 +25,13 @@ I'm currently working with DevOps and Cloud related technologies. I've keen inte
 
 ## 📝 Blogs and writing
 I've very active, writing content regularly to at least one of these.
-- [Blog Link]
-- [Blog Link]
+- Will Be Added SOON [Blog Link]
+- Will Be Added SOON [Blog Link]
 
 ## 🌟 Projects
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
- - Project Name: Brief description of the project. Technologies used: [List of technologies].
+ - Will Be Added SOON - Project Name: Brief description of the project. Technologies used: [List of technologies].
+ - Will Be Added SOON - Project Name: Brief description of the project. Technologies used: [List of technologies].
+ - Will Be Added SOON - Project Name: Brief description of the project. Technologies used: [List of technologies].
 
 ## __📈 Technologies I have worked with:__
 
@@ -40,7 +40,7 @@ I've very active, writing content regularly to at least one of these.
 
 ## 🧲 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/shahirul-islam-polak-b440b8275/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=ffffff)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/sip23bjit)
 
