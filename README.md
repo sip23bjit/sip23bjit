@@ -8,12 +8,12 @@ I'm currently working with DevOps and Cloud related technologies. I've keen inte
 
 ## ⛑️Experience
 ### Trainee DevOps Engineer at BJIT (2023 - Present)
-- 🔭Managed Git repositories and branches for multiple projects
-- 🌱Implemented Git hooks and workflows to enforce code quality and automate tasks
-- 💬Automated CI/CD pipelines using Jenkins and GitLab CI/CD
-- 📫Utilized infrastructure as code principles to manage and provision cloud resources using Terraform
-- 🗣Orchestrated containerized applications using Docker and Kubernetes
-- 🎉Maintained and optimized AWS infrastructure for reliability and performance
+- 🔭 Managed Git repositories and branches for multiple projects
+- 🌱 Implemented Git hooks and workflows to enforce code quality and automate tasks
+- 💬 Automated CI/CD pipelines using Jenkins and GitLab CI/CD
+- 📫 Utilized infrastructure as code principles to manage and provision cloud resources using Terraform
+- 🗣 Orchestrated containerized applications using Docker and Kubernetes
+- 🎉 Maintained and optimized AWS infrastructure for reliability and performance
 
 ## 🖥️ Education
 - Bachelor's Degree in Electronics Engineering
