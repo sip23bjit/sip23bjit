@@ -1,8 +1,8 @@
 
-## __Hello__ 👋
+### __Hello__ 👋
 ## 🤠 I'm Shahirul Islam Polak
 
-## 💼 What I'm working on
+## 💼 Currently working on
 I'm currently working with DevOps and Cloud related technologies. I've keen interest on autoamtion of software development
 
 
