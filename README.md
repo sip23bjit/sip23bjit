@@ -6,7 +6,7 @@
 I'm currently working with DevOps and Cloud related technologies. I've keen interest on autoamtion of software development
 
 
-## ⛑️ Work Experience
+## ⛑️Experience
 ### Trainee DevOps Engineer at BJIT (2023 - Present)
 - 🔭Managed Git repositories and branches for multiple projects
 - 🌱Implemented Git hooks and workflows to enforce code quality and automate tasks
