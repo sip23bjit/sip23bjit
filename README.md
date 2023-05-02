@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=%20Shahirul%20Islam%20Polak&fontSize=75&animation=fadeIn)
 
 ## __Hello__ 👋
-
+# I'm Shahirul Islam Polak
 
 ## 💼 What I'm working on
 I'm currently working with DevOps and Cloud related technologies. I've keen interest on autoamtion of software development
-
 
 
 ## ⛑️ Work Experience
