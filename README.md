@@ -1,4 +1,4 @@
-<h2><p style="text-align: center;">Hello 👋</p> </h2>
+<h2><p style="text-align: center;">Hello 👋</p></h2>
 
 ## 🤠 I'm Shahirul Islam Polak
 __[website](https://sip23bjit.github.io/resume_test_0001/)__
